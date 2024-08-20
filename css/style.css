@@ -1,0 +1,98 @@
+*{
+    font-family:'Times New Roman', Times, serif;
+}
+::selection{
+    color:#1cbab0;
+}
+ /*start nav  */
+#info .navbar-brand{
+    font-size: 30px;
+    font-family: monospace;
+    font-weight: 700;
+    letter-spacing: 0.5px;
+    
+}
+#info a{
+    font-size: 19px;
+    margin-left: 10px;
+    letter-spacing: 1px;
+    font-family:'Times New Roman', Times, serif;
+}
+
+/* start sec 1 */
+.parent h2{
+    font-size: 40px;
+}
+.parent p{
+    letter-spacing: 0.5;
+    color:white
+}
+
+.parent img{
+    border:1px solid  #c2e9f2;
+    border-radius: 10px;
+    transition: all 3s ease;
+}
+.parent img:hover{
+    transform:scale(1.1);
+}
+.parent hr{
+    height:2px;
+    background-color:#d49f34;
+    width:250px;
+    margin:auto;
+    margin-bottom:50px;
+    
+
+}
+/* end sec 1 */
+
+#sec-info h2{
+    font-size: 35px;
+}
+#sec-info hr{
+    height:2px;
+    background-color:#d49f34;
+    width:250px;
+    margin:auto;
+    margin-bottom:50px;
+}
+
+#sec-info img{
+   
+     margin-left: 260px ;
+     transition: all 3s ease;
+}
+#sec-info img:hover{
+    transform: scale(1.1);
+}
+
+#sec3-info hr{
+
+    height:2px;
+    background-color:#d49f34;
+    width:250px;
+    margin:auto;
+    margin-bottom:50px;
+    
+}
+#sec4-info hr{
+    
+    height:2px;
+    background-color:#d49f34;
+    width:250px;
+    margin:auto;
+    margin-bottom:50px;
+}
+#sec4info h2{
+    font-size: 40px;
+}
+#sec4info hr{
+    
+    height:2px;
+    background-color:#d49f34;
+    width:250px;
+    margin:auto;
+    margin-bottom:50px;
+
+}
